@@ -1,6 +1,3 @@
-# P2WB0T
-Taki se bot
-
 ### Hi there, I'm Kamil 👋
 
 - 🔭 I’m currently working on a [Intellij IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com/)
