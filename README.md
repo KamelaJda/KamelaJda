@@ -1,4 +1,4 @@
-### Hi there, I'm Kamil 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on a [Intellij IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com/)
 - 🔭 I'm looking for clients
@@ -36,7 +36,8 @@
   
 <!--START_SECTION:projects-->
 1. ❗️ [FratikB0T](https://github.com/fratik/FratikB0T)
-1. 🗣️ [P2WB0T](https://github.com/KAMIL0024/P2WB0T) ~~private repo~~
+2. ❗️ [API for YouTrack](https://github.com/KAMIL0024/YouTrack-API)
+3. 🗣️ [P2WB0T](https://github.com/KAMIL0024/P2WB0T)
 <!--END_SECTION:projects-->
 
 </details>
