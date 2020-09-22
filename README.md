@@ -25,7 +25,7 @@
 <img align="left" alt="JetBrains | Hub" width="26px" src="https://resources.jetbrains.com/storage/products/hub/img/meta/hub_logo_300x300.png" />
 <img align="left" alt="JetBrains | YouTrack" width="26px" src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" />
 <img align="left" alt="JetBrains | ToolBox" width="26px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png" />
-
+<img align="left" alt="JetBrains | WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <br />
 <br />
 
