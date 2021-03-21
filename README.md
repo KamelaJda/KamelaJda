@@ -24,24 +24,6 @@
 <img align="left" alt="JetBrains | WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img align="left" alt="JetBrains | Space" width="26px" src="https://resources.jetbrains.com/storage/products/space/img/meta/logo.png" />
 <br />
-<br />
 
----
-
-<details>
-  <summary>:zap: Favorite Projects</summary>
-  
-<!--START_SECTION:projects-->
-1. ❗️ [FratikB0T](https://github.com/fratik/FratikB0T)
-2. ❗️ [API for YouTrack](https://github.com/KAMIL0024/YouTrack-API)
-3. 🗣️ [P2WB0T](https://github.com/KAMIL0024/P2WB0T)
-<!--END_SECTION:projects-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="KAMIL0024's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KAMIL0024&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=KAMIL0024" />
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=KamelaJda&count_private=true" />
