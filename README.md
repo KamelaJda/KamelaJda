@@ -23,7 +23,10 @@
 <img align="left" alt="JetBrains | DataGrip" width="26px" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
 <img align="left" alt="JetBrains | WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img align="left" alt="JetBrains | Space" width="26px" src="https://resources.jetbrains.com/storage/products/space/img/meta/logo.png" />
+
 <br />
 
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=KAMIL0024" />
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=KamelaJda&count_private=true" />
+### Languages and Tools:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=KAMIL0024" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KamelaJda&count_private=true" />
