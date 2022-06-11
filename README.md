@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profiles.fratik.pl/343467373417857025"/>
+  <img src="https://profiles.fratik.pl/343467373417857025?"/>
 </div>
 
 <br/>
