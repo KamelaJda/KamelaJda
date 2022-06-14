@@ -1,33 +1,62 @@
-<div align="center">
-  <img src="https://profiles.fratik.pl/343467373417857025?"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm Kamil, Fullstack developer - meaning nobody</p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij IDEA-0a31f7?style=flat-square&logo=intellij idea&logoColor=white" />
+  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-fc0f86?style=flat-square&logo=webstorm&logoColor=white" />
+  <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-0dd113?style=flat-square&logo=teamcity&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-21B6A8?style=flat-square&logo=java&logoColor=white" />
+</p>
+
+<h3>My Discord profile<h3>
+<img src="https://profiles.fratik.pl/343467373417857025?" width="500"/>
+
+<h3>My favorite <sub><sup><sub><sup>(public)</sup></sub></sup></sub> projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/fratik/FratikB0T"><b>FratikB0T</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/DV8FromTheWorld/JDA"><b>JDA</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<h3>See my addiction:</h3>
+<div style="text-align:justify">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KAMIL0024&theme=dark" alt="wakatime"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KamelaJda&count_private=true&theme=dark" alt="github"/>
 </div>
 
-<br/>
-
-### Languages and Tools:
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="JetBrains | Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/intellijidea.svg" />
-<img align="left" alt="JetBrains | TeamCity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
-<img align="left" alt="JetBrains | Hub" width="26px" src="https://resources.jetbrains.com/storage/products/hub/img/meta/hub_logo_300x300.png" />
-<img align="left" alt="JetBrains | YouTrack" width="26px" src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" />
-<img align="left" alt="JetBrains | ToolBox" width="26px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png" />
-<img align="left" alt="JetBrains | DataGrip" width="26px" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
-<img align="left" alt="JetBrains | WebStorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
-<img align="left" alt="JetBrains | Space" width="26px" src="https://resources.jetbrains.com/storage/products/space/img/meta/logo.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="NextJs" width="26px" src="https://images.prismic.io/boringowl/fe6cc033-921c-42e6-8d10-582373846263_next+js+framework.jpeg" />
-
-<br />
-
-### See my addiction:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=KAMIL0024&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KamelaJda&count_private=true&theme=dark" />
-
-<sub><sup>sometimes i touch the grass</sup></sub>
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/KamelaJda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/KamelaJdaa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://discord.gg/CZ8pXah" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
