@@ -39,7 +39,14 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fratik/FratikB0T?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+<tr>
+      <td><a href="https://github.com/KamelaJda/SpotifyB0T"><b>SpotifyB0T</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KamelaJda/SpotifyB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KamelaJda/SpotifyB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KamelaJda/SpotifyB0T?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KamelaJda/SpotifyB0T?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
       <td><a href="https://github.com/DV8FromTheWorld/JDA"><b>JDA</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DV8FromTheWorld/JDA?style=flat-square&labelColor=343b41"/></td>
