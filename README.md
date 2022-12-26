@@ -18,7 +18,7 @@
 </p>
 
 <h3>My Discord profile<h3>
-<img src="https://profiles.fratik.pl/343467373417857025" width="500"/>
+<a href="https://discord.com/users/343467373417857025"><img src="https://lanyard.cnrad.dev/api/343467373417857025"></a>
 
 <h3>My favorite <sub><sup><sub><sup>(public)</sup></sub></sup></sub> projects</h3>
 <table>
